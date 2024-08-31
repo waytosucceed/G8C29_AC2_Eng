@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Class Activity 2</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  
+  <link rel="icon" type="image/x-icon" href="Logo_last.png">
+
+
+  <style>
+        
+
+.correct{
+    background-color: rgb(167, 225, 243);
+    border-radius: 50%;
+    width:100px;
+    height: 50px;
+   font-weight: bold;
+   
+}
+
+
+
+  </style>
+
+
+
+</head>
+
+
+<body>
+  <audio id="cheers" >
+    <source src="cheers.mp3" type="audio/mpeg">
+  </audio>
+  <audio id="points" src="Points.mp3"></audio>
+  <audio id="fail" src="fail.mp3"></audio>
+  <div class="header" style="width:100%; box-shadow:5px 5px 10px rgb(0, 0, 0); padding-bottom:10px;">
+    <img src="Logo.png" width="5%" style="float:left; margin-top:25px;" class="img-responsive">
+    <span> <img src="header.png" width="30%" height="100px" class="img-responsive"></span>
+</div>
+<br>
+<br>
+  <center>
+    
+    <h1 id="heading" style="font-family: Impact">Lets Revise With The Teacher</h1>
+    <div class="maindiv container" style="padding-top: 50px;">
+  
+  
+     <p style="font-size: 20px;">Q1. Name 6 countable nouns in English that only have a plural form and take a plural verb.
+  
+      <br><br>
+  
+      <label id="label1"></label> 
+         <button onclick="func1()" id="btn1" class="correct">Check</button> <br><br>
+  
+       Q2.  Which is the ‘rule of proximity’ in Subject-Verb Agreement?
+       <br><br>
+  
+  
+       <label id="label2"></label>
+      <button onclick="func2()" id="btn2" class="correct">Check</button>
+       <br> <br>
+  
+  
+       Q3. My cats have a very simple routine. <br><u>They sleep, eat and play throughout the day.</u><br>Which rule of the subject-verb agreement is exhibited in the second line of the text above?
+        
+       <br><br>
+  
+  
+       <label id="label3"></label>
+      <button onclick="func3()" id="btn3" class="correct">Check</button>
+       <br> <br>
+  
+       Q4. Which subject-verb agreement rule is exhibited in the following sentence:<br>
+       Bread and butter was my breakfast.
+      <br> 
+       
+       
+       <br><br>
+  
+  
+       <label id="label4"></label>
+      <button onclick="func4()" id="btn4" class="correct">Check</button>
+       <br> <br>
+  
+       Q5. How does a collective noun function in the subject-verb agreement when it is a subject?
+
+
+
+
+       
+       <br><br>
+  
+  
+       <label id="label5"></label>
+      <button onclick="func5()" id="btn5" class="correct">Check</button>
+       <br> <br>
+    </p> 
+  </div>
+    <script>
+      
+             function func1(){
+              document.getElementById('label1').innerHTML="earnings, goods, odds, surroundings, contents, and valuables "
+              document.getElementById('btn1').style.display="none"
+             }
+  
+             function func2(){
+              document.getElementById('label2').innerHTML=" When a compound subject contains both a singular and a plural noun or pronoun joined by 'or' or 'nor', the verb should agree with the part of the subject that is closest to the verb. This is also called the rule of proximity.<br><b>The student <i>or</i> the committee members </b><u>write</u> every day."
+              document.getElementById('btn2').style.display="none"
+             }
+  
+             function func3(){
+              document.getElementById('label3').innerHTML=" When there is one subject and more than one verb, the verbs throughout the sentence have to agree with the subject"
+              document.getElementById('btn3').style.display="none"
+             }
+  
+             function func4(){
+              document.getElementById('label4').innerHTML="The verb is singular if the two subjects are separated by and refer to the same person or thing."
+              document.getElementById('btn4').style.display="none"
+             }
+  
+             function func5(){
+              document.getElementById('label5').innerHTML="Collective nouns are words that imply more than one person or thing but are considered singular and take a singular verb. Some examples are 'group', 'team', 'committee', 'family', and 'class'.<br>Example: Our <u>team</u><i> meets</i> every Sunday."
+              document.getElementById('btn5').style.display="none"
+             }
+  
+    </script>
+</center>
+</body>
+</html>

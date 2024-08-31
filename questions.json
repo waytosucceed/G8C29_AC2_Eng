@@ -1,0 +1,217 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which sentence is grammatically correct?<br>I. Everybody seem to be interested.<br>II. Everybody seems to be interested. ",
+        "options": [
+            "Both I and II",
+            "Only I",
+            "Only II",
+            "None of the above"
+        ],
+        "correct": 2,
+        "explanation": "The words and phrases \"each,\" \"each one,\" \"either,\" \"neither,\" \"everyone,\" \"everybody,\" \"anyone,\" \"anybody,\" \"nobody,\" \"somebody,\" \"someone,\" and \"no one\" are singular and require a singular verb."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Fill in the blanks:<br> Subjects do not usually come before verbs in ………………",
+        "options": [
+            "Assertive Sentences",
+            "Interrogative sentences",
+            "Both",
+            "None of the above"
+        ],
+        "correct": 1,
+        "explanation": "Subjects do not usually come before verbs in questions. Before deciding on the appropriate verb form, ensure that you have appropriately identified the subject. In the example, 'Where are the pieces of that puzzle?', the plural verb ‘are’ agrees with the plural subject ‘Pieces’."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which sentence is grammatically correct?<br>I. A pair of trousers is kept on the table.<br>II. Her trousers are untidy.",
+        "options": [
+            "Both I and II",
+            "Only I",
+            "Only II",
+            "None of the above"
+        ],
+        "correct": 0,
+        "explanation": "\"Trousers\" is a plural noun that typically takes a plural verb. If \"a pair of\" is introduced before \"trousers\", the phrase becomes singular and requires a singular verb."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Choose the correct option:<br>I. Rene or her friends attend the library everyday.<br>II. Her friends or Rene attends the library everyday.",
+        "options": [
+            "Only I",
+            "Only II",
+            "Both I and II",
+            "None of the above"
+        ],
+        "correct": 2,
+        "explanation": "When a compound subject contains both a singular and a plural noun or pronoun joined by \"or\" or \"nor,\" the verb should agree with the part of the subject that is closest to the verb. This is also called the rule of proximity."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "The verb is singular if the two subjects are separated by <i>and</i> and refer to the same person or thing.",
+        "options": [
+            "Correct",
+            "Incorrect"
+        ],
+        "correct": 0,
+        "explanation": "Example: Red beans and rice is my mom's favourite dish."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Each of the boys ………..punished.",
+        "options": [
+            "Was",
+            "Were"
+        ],
+        "correct": 0,
+        "explanation": "The words and phrases \"each,\" \"each one,\" \"either,\" \"neither,\" \"everyone,\" \"everybody,\" \"anyone,\" \"anybody,\" \"nobody,\" \"somebody,\" \"someone,\" and \"no one\" are singular and require a singular verb."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Where is the bits of that paper?<br> Is the above question grammatically correct?",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "correct": 1,
+        "explanation": "‘Bits’ is plural; ‘Are’ should be the plural verb here. We are not supposed to consider the prepositional phrase ‘of that paper’ to decide the verb."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Fill in the blanks:<br> Mary and John usually …………………….together.",
+        "options": [
+            "Plays",
+            "Play"
+        ],
+        "correct": 1,
+        "explanation": "A plural verb is employed when the sentence's subject consists of two or more nouns or pronouns joined by and."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Mention one phrase that is singular and takes a singular verb.",
+        "options": [
+            "No one",
+            "Each one",
+            "Both A and B",
+            "None of the above"
+        ],
+        "correct": 2,
+        "explanation": "The words and phrases \"each,\" \"each one,\" \"either,\" \"neither,\" \"everyone,\" \"everybody,\" \"anyone,\" \"anybody,\" \"nobody,\" \"somebody,\" \"someone,\" and \"no one\" are singular and require a singular verb."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "A plural verb is employed when the sentence's subject consists of two or more nouns or pronouns joined by and.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "Example: Leo and Papaya are my dogs."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Which sentence is grammatically correct?<br>I. The contents of this encyclopaedia are missing.<br>II. The contents of this encyclopaedia is missing.",
+        "options": [
+            "Only II",
+            "Only I",
+            "Both I and II",
+            "The sentences need correction"
+        ],
+        "correct": 1,
+        "explanation": "The words and phrases \"each,\" \"each one,\" \"either,\" \"neither,\" \"everyone,\" \"everybody,\" \"anyone,\" \"anybody,\" \"nobody,\" \"somebody,\" \"someone,\" and \"no one\" are singular and require a singular verb."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Both of my flatmates…………………planned my birthday party.",
+        "options": [
+            "Have",
+            "Has"
+        ],
+        "correct": 0,
+        "explanation": "Indefinite pronouns like several, many, both and few are plural and require plural verbs."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Prepositional phrases between the subject and verb usually affect their agreement.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "Example: The colours of the rainbow look amazing. In this sentence, ‘of the rainbow’ is the prepositional phrase as it is a group of words that starts with a preposition (of)."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Fill in the blanks:<br> Several of my neighbours…………………sick.",
+        "options": [
+            "Is",
+            "Are"
+        ],
+        "correct": 1,
+        "explanation": "Indefinite pronouns like several, many, both and few are plural and require plural verbs."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Is the sentence below grammatically correct?<br> Perseverance is the key to success.",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "correct": 0,
+        "explanation": "Uncountable nouns take singular verbs."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Fill in the blanks:<br> Either the men or the woman………………during dusk.",
+        "options": [
+            "Walk",
+            "Walks"
+        ],
+        "correct": 1,
+        "explanation": "When a compound subject contains both a singular and a plural noun or pronoun joined by \"or\" or \"nor,\" the verb should agree with the part of the subject that is closest to the verb. This is also called the rule of proximity."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Fill in the Blanks:<br> Few of my pets ……………sick.",
+        "options": [
+            "Is",
+            "Are"
+        ],
+        "correct": 1,
+        "explanation": "Indefinite pronouns like several, many, both and few are plural and require plural verbs."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Select the right option:<br> Abstract Nouns take singular verbs.",
+        "options": [
+            "Correct",
+            "Incorrect"
+        ],
+        "correct": 0,
+        "explanation": "Abstract nouns are uncountable. Uncountable nouns take singular verbs."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "…………………………are words that imply more than one person or thing but are considered singular and take a singular verb.",
+        "options": [
+            "Countable nouns",
+            "Uncountable Nouns",
+            "Collective Nouns",
+            "None of the above"
+        ],
+        "correct": 2,
+        "explanation": "Team, group, committee, etc., are collective nouns."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Is the sentence below grammatically correct?<br> The colours in this wall looks bright.",
+        "options": [
+            "No",
+            "Yes"
+        ],
+        "correct": 0
+
+    }
+]
+
